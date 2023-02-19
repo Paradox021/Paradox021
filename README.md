@@ -3,7 +3,6 @@
 ![I am Software developer](images/banner.png)
 
 ## Hola!👋, mi nombre es Carmelo España
-Soy un joven de 21 años apasionado de la informática y la programación. Me considero una persona comprometida, cooperativa y responsable, que, además tiene una gran capacidad y facilidad para aprender.
 
 ### Languages
 
