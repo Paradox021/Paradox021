@@ -27,14 +27,11 @@ Soy un joven de 21 años apasionado de la informática y la programación. Me co
 
 - 📫 Como contactarme: espanacarmelo@gmail.com 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox021&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paradox021&theme=dark&show_icons=true)  
 
 [![GitHub Streak Stats](https://streak-stats.demolab.com?user=Paradox021&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradox021&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carmelo-espana-torrez//)  
