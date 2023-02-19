@@ -2,7 +2,7 @@
 
 ![I am Software developer](images/banner.png)
 
-## Hola!👋, mi nombre es Carmelo España
+## Hi there!👋, my name is Carmelo España
 
 ### Languages
 
@@ -24,7 +24,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-- 📫 Como contactarme: espanacarmelo@gmail.com 
+- 📫 How to reach me: espanacarmelo@gmail.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Paradox021&theme=dark&show_icons=true)  
 
