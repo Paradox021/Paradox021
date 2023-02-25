@@ -20,9 +20,12 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Node.js](https://img.shields.io/badge/-Express-000?&logo=express)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 
 - 📫 How to reach me: espanacarmelo@gmail.com 
 
